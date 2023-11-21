@@ -1,0 +1,15 @@
+C:\Users\IS22-11\Desktop\asdasd\obj\Debug\net6.0\asdasd.csproj.AssemblyReference.cache
+C:\Users\IS22-11\Desktop\asdasd\obj\Debug\net6.0\asdasd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IS22-11\Desktop\asdasd\obj\Debug\net6.0\asdasd.AssemblyInfoInputs.cache
+C:\Users\IS22-11\Desktop\asdasd\obj\Debug\net6.0\asdasd.AssemblyInfo.cs
+C:\Users\IS22-11\Desktop\asdasd\obj\Debug\net6.0\asdasd.csproj.CoreCompileInputs.cache
+C:\Users\IS22-11\Desktop\asdasd\bin\Debug\net6.0\asdasd.exe
+C:\Users\IS22-11\Desktop\asdasd\bin\Debug\net6.0\asdasd.deps.json
+C:\Users\IS22-11\Desktop\asdasd\bin\Debug\net6.0\asdasd.runtimeconfig.json
+C:\Users\IS22-11\Desktop\asdasd\bin\Debug\net6.0\asdasd.dll
+C:\Users\IS22-11\Desktop\asdasd\bin\Debug\net6.0\asdasd.pdb
+C:\Users\IS22-11\Desktop\asdasd\obj\Debug\net6.0\asdasd.dll
+C:\Users\IS22-11\Desktop\asdasd\obj\Debug\net6.0\refint\asdasd.dll
+C:\Users\IS22-11\Desktop\asdasd\obj\Debug\net6.0\asdasd.pdb
+C:\Users\IS22-11\Desktop\asdasd\obj\Debug\net6.0\asdasd.genruntimeconfig.cache
+C:\Users\IS22-11\Desktop\asdasd\obj\Debug\net6.0\ref\asdasd.dll
